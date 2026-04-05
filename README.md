@@ -162,4 +162,5 @@ motorsport. This project is me putting everything I've learned so far
 into one place — and pushing beyond it.
 
 -K.SAHITHI CHANDANA
-[linkedin.com/in/sahithichandanakonyala]
+[ https://www.linkedin.com/in/sahithichandanakonyala]
+
