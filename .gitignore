@@ -1,0 +1,18 @@
+# Data files — not shared out of respect for course material
+*.csv
+*.CSV
+
+# Common data formats
+*.xlsx
+*.xls
+*.mat
+*.json
+
+# OS clutter
+.DS_Store
+Thumbs.db
+
+# Python clutter
+__pycache__/
+*.pyc
+*.pyo
