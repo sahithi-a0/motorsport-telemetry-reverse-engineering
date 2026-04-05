@@ -1,3 +1,9 @@
+ **Note:** Driver 3's qualifying data was used for this layer.
+ Since this analysis reconstructs physical constants — track layout,
+ elevation profile, corner geometry — from GPS channels alone,
+ the choice of driver does not affect the conclusions drawn.
+
+
 ANALYSIS
 LAYER-2- Which Track is it?
 
