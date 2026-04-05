@@ -24,6 +24,22 @@ Driver 4 vs Driver 5
 The most interesting comparison of the three. Driver 4 actually holds a brief advantage at the main straight braking zone — they arrive faster and brake harder, which is a legitimate late-braking win at that specific point. But from 300 metres onward, Driver 5 claws it back corner by corner. By 800 metres the deficit is absorbed and Driver 5 builds from there. The braking zone win is real. The lap time loss is also real. Total gap — 1.3 seconds to Driver 5.
 Late braking wins the corner entry. Corner speed wins the lap. The delta chart proves both simultaneously.
 ________________________________________
+
+# Plot 4 — Qualifying Lap Time Heatmap
+
+This plot is the simplest and most honest summary of the qualifying session. You don't need to read the numbers — the colours tell the story before you get there. Green is fast, red is slow, and each cell is one lap.
+
+Driver 5's row is the one you want yours to look like. It starts yellow-green on the left and gets progressively darker green moving right, lap after lap. The improvement is consistent and linear — no yellow patches where pace dropped, no orange cells where something went wrong. The best lap marked with a star sits at lap 7 with 1:08.50, and the final lap at the far right reads 84.5 seconds which is the cool-down lap. Nine laps total, average of 72.2 seconds across the session. That's the heatmap pattern of a driver who built confidence progressively and peaked exactly when they needed to.
+
+Driver 3's row tells a different story. The improvement is there — 1:17.50 on the first flying lap down to 1:11.20 by lap 6, which is reasonable progression. But look at the final cell on the right. 1:33.80. That's not a slow lap — that's an incident, an abort, or a yellow flag. The star sits at lap 6, which means Driver 3 found their best lap early and then couldn't improve on it across laps 7 and 8 before the session ended with that anomalous final lap. Eight laps run, best of 1:11.20, average of 76.0 seconds. The plateau at 1:11.20 and 1:11.30 across the final flying laps is the more concerning detail — the improvement stopped arriving before the session did.
+
+Driver 4's row has one cell that ruins an otherwise reasonable picture. Laps 0 through 2 show clean improvement from 1:13.20 down to 1:11.90. Then lap 3 jumps back to 1:15.40 — yellow against the surrounding greens. Traffic, a mistake, something disrupted that lap. After that the improvement resumes and reaches 1:09.80 at laps 5 and 6 — the two stars sitting side by side, both at exactly the same time. That's the detail that stands out. Driver 4 ran the same best lap twice in a row and couldn't find anything more. The final cell reads 1:36.60 — same situation as Driver 3, an anomalous final lap. Eight laps run, best of 1:09.80, average of 74.9 seconds.
+
+The thing the heatmap shows that the lap time chart doesn't is the consistency pattern within the session. Driver 5's row has no outlier cells. Every lap is meaningfully faster than the one before it, or close enough that it tells you the driver is in control of their pace. Driver 3 and Driver 4 both have anomalous cells — the 1:15.40 for Driver 4 mid-session and the final lap disasters for both — that represent lost opportunities and disrupted rhythm.
+
+Best times: Driver 5 at 1:08.50, Driver 4 at 1:09.80, Driver 3 at 1:11.20. Driver 5 lapped 9 times, Driver 3 and Driver 4 both 8. That extra lap for Driver 5 produced the fastest time of the session on what was effectively the final real attempt of qualifying. The session was won in the last flying lap.
+________________________________________
+
 # Plot 5 — Throttle and Brake Overlay
 The throttle overlay is where the most counter-intuitive finding in this entire qualifying dataset becomes visible. Driver 5's throttle trace sits lower on the chart than either of the other two for almost the entire lap. Driver 3 and Driver 4 both show sustained periods at full throttle. Driver 5 barely touches the ceiling.
 Full throttle time — Driver 4 at 28.8 seconds, Driver 3 at 27.1 seconds, Driver 5 at 2.1 seconds. The fastest driver uses the least full throttle. Every time I show that number to someone who hasn't seen the data, they assume it's a mistake.
