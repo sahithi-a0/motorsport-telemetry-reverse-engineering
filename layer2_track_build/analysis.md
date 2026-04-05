@@ -1,7 +1,8 @@
 ANALYSIS
 LAYER-2- Which Track is it?
 
-Plot 1 — Track Map
+## Plot 1 — Track Map
+
 
 The GPS data came back clean — zero bad rows filtered out across the entire session. Satellite count stayed above 4 throughout and positional accuracy was solid, so everything you see on the map can be trusted.
 The track footprint is 805 metres east-west and only 233 metres north-south. That's a wide, flat shape — not a loop, not an oval. Think of it more like a long thin rectangle with corners punched into each end. The car is essentially running back and forth across one horizontal axis.
