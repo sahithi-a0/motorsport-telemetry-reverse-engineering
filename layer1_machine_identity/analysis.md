@@ -1,3 +1,10 @@
+
+**Note:** Driver 3's qualifying data was used for this layer. 
+ Since this analysis identifies mechanical constants — gear ratios, 
+ rev limits, top speed — rather than driver technique, the choice 
+ of driver does not affect the conclusions drawn.
+
+
 ANALYSIS
 LAYER-1- FINDING THE MACHINE.
 
