@@ -99,7 +99,7 @@ ________________________________________
 
 
 
-Race — Plot Analysis
+# Race — Plot Analysis
 # Plot 1 — Race Lap Time Progression
 Driver 5 is simply the fastest driver in this race. Best lap of 70.7 seconds against Driver 4's 71.9 and Driver 3's 74.0. That 3.3 second gap to Driver 3 might not feel massive when you say it out loud, but run it over 20 laps and Driver 5 is more than a minute up the road. At that point the race is over — you're not coming back from a minute.
 What I found more interesting than the raw times is the trend across the race. All three drivers got quicker as the laps went on, which is what you'd expect — tyres come in, the driver gets braver, the fuel burns off and the car lightens up. Driver 4 ran 22 laps and showed the most consistent improvement across the stint. Driver 5 across 21 laps started fast and just kept getting faster. Driver 3 across 20 laps improved but never at the same rate as the other two.
