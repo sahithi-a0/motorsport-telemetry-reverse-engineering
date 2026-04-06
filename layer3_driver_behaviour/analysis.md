@@ -52,7 +52,7 @@ What makes Driver 5's numbers meaningful isn't just the lower peak — it's the 
 On the lockup side, all three drivers show brief spikes in the heaviest braking zones — normal behaviour. None are carrying sustained lockup events. Driver 5 peaks at -5.04% for 1.0 second, Driver 3 at -4.76% for 0.7 seconds, Driver 4 at -4.66% for 1.2 seconds. Short, sharp, and recovered quickly.
 The location of Driver 3's peak wheelspin is the detail that stands out. That 9.28% peak occurs at a throttle position of only 26% — mid-corner, not on the straight under full acceleration. The car is breaking traction under partial throttle while still carrying lateral load. That's a combined slip condition, and it's a specific problem with a specific set of solutions — either a differential calibration change to reduce locking under partial throttle, or a throttle map adjustment that reduces torque delivery during the mid-corner phase. It's not something the driver can fully manage on their own without a mechanical change underneath them.
 
-#Driver-4
+# Driver-4
 
 # Plot 1 — Driver Inputs Trace
 Speed
