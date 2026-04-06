@@ -164,3 +164,8 @@ into one place — and pushing beyond it.
 -K.SAHITHI CHANDANA
 [ https://www.linkedin.com/in/sahithichandanakonyala]
 
+---
+## Feedback
+If you have suggestions or questions about this analysis, 
+feel free to open an Issue on this repository.
+
