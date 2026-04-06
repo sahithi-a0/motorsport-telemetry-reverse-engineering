@@ -89,7 +89,6 @@ This qualifying session was decided in the slow corners. Driver 5 flows through 
 
 
 
-
 Race — Plot Analysis
 # Plot 1 — Race Lap Time Progression
 Driver 5 is simply the fastest driver in this race. Best lap of 70.7 seconds against Driver 4's 71.9 and Driver 3's 74.0. That 3.3 second gap to Driver 3 might not feel massive when you say it out loud, but run it over 20 laps and Driver 5 is more than a minute up the road. At that point the race is over — you're not coming back from a minute.
