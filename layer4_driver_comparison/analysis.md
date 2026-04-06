@@ -1,179 +1,341 @@
-Analysis
-## LAYER-4- WHO IS FASTEST?
-## Qualifying 
-# Plot 1 — Lap Time Progression
-Driver 5 runs 9 valid flying laps against 8 each for Driver 3 and Driver 4. That extra lap matters — it's another chance to find time at the end of a session when the circuit is at its fastest and the driver knows the track best.
+## LAYER-4 — WHO IS FASTEST?
+
+## Qualifying
+
+### Plot 1 — Lap Time Progression
+
+Driver 5 runs 9 valid flying laps against 8 each for Driver 3 and Driver 4. That extra lap matters. It's another chance to find time late in the session when the circuit is at its fastest and the driver knows the track best.
+
 Driver 5's progression — 75.2, 72.3, 71.0, 69.5, 69.6, 68.8, 70.2, 68.5 — tells a clean story. Steady improvement, a slight blip at lap 7, then the fastest lap of the session on the final run. That's a driver who builds confidence progressively and doesn't back off when it matters.
-Driver 4 goes 73.2, 72.3, 71.9, 75.4, 70.6, 69.8, 69.8. The 75.4 at lap 4 breaks what would otherwise be a smooth improvement curve — traffic, a mistake, or a yellow somewhere on circuit. The final two laps identical at 69.8 is the telling detail. Driver 4 found their repeatable limit and couldn't break through it. No further improvement across two attempts.
-Driver 3 goes 77.5, 75.1, 73.2, 73.9, 72.1, 71.3, 71.2, 93.8. An improving trend that nearly plateaus at laps 6 and 7 — which on its own isn't alarming — then the 93.8 on the final lap which is clearly an incident, abort, or yellow. More concerning than the final lap is that Driver 3 never found the rate of improvement Driver 4 and Driver 5 demonstrated across the same session window. The progression stalls earlier.
+
+Driver 4 goes 73.2, 72.3, 71.9, 75.4, 70.6, 69.8, 69.8. The 75.4 at lap 4 breaks what would otherwise be a smooth improvement curve — traffic, a mistake, or a yellow somewhere on circuit. But the more telling detail is the final two laps sitting identical at 69.8. Driver 4 found their repeatable limit and simply couldn't break through it. Two attempts, same time, nothing more left to give.
+
+Driver 3 goes 77.5, 75.1, 73.2, 73.9, 72.1, 71.3, 71.2, 93.8. An improving trend that nearly plateaus at laps 6 and 7 — which on its own isn't alarming — then the 93.8 on the final lap, which is clearly an incident, abort, or yellow. But honestly, the more concerning thing isn't even that final lap. It's that Driver 3 never found the rate of improvement Driver 4 and Driver 5 both demonstrated across the same session window. The progression just stalls earlier.
+
 Spread tells you about consistency. Driver 5's range of 6.7 seconds between their fastest and second-slowest lap is the tightest. Driver 4 and Driver 3 both show wider variation — more session-to-session inconsistency in extracting the maximum from each run.
-Best times: Driver 5 — 1:08.5 | Driver 4 — 1:09.8 | Driver 3 — 1:11.2
-________________________________________
-# Plot 2 — Speed Trace Overlay
-Top speeds are close. Driver 5 at 198 km/h, Driver 4 at 194, Driver 3 at 193. Five kilometres per hour across the whole field on the same car — the gap isn't on the straight and everyone who looks at this data for more than thirty seconds can see that.
-The minimum corner speeds are where it opens up. Driver 5 carries 61 km/h through the tightest hairpin. Driver 3 carries 59. Driver 4 carries 54. That 7 km/h deficit for Driver 4 at the slowest point of the lap is the most important single speed number on this plot. This circuit has nine corners where that kind of deficit shows up. It doesn't stay as 7 km/h — it compounds.
-Average speed across the best lap is the most honest single number — 114 km/h for Driver 5, 112 for Driver 4, 110 for Driver 3. That 4 km/h gap between Driver 5 and Driver 3 over 2,154 metres is exactly where the 2.7 second lap time difference comes from.
-The corner exit zones are worth studying carefully on this overlay. Driver 5's trace recovers to straight-line speed faster than the other two after every apex — and their full-throttle time is the shortest of anyone. That's the combined slip technique in action. By managing the throttle while the car is still turning, Driver 5 exits at a speed the other two have to accelerate back up to. They never lost it in the first place.
-________________________________________
-# Plot 3 — Lap Delta Chart
-Driver 3 vs Driver 4
+
+**Best times: Driver 5 — 1:08.5 | Driver 4 — 1:09.8 | Driver 3 — 1:11.2**
+
+_____________________________________________________
+
+### Plot 2 — Speed Trace Overlay
+
+Top speeds are close. Driver 5 at 198 km/h, Driver 4 at 194, Driver 3 at 193. Five kilometres per hour across the whole field on the same car — the gap isn't on the straight, and anyone who looks at this data for more than thirty seconds can see that.
+
+The minimum corner speeds are where it opens up. Driver 5 carries 61 km/h through the tightest hairpin. Driver 3 carries 59. Driver 4 carries 54. That 7 km/h deficit for Driver 4 at the slowest point of the lap is the most important single speed number on this entire plot. This circuit has nine corners where that kind of deficit shows up. It doesn't stay as 7 km/h — it compounds.
+
+Average speed across the best lap is the most honest single number you can pull from this data. 114 km/h for Driver 5, 112 for Driver 4, 110 for Driver 3. That 4 km/h gap between Driver 5 and Driver 3 over 2,154 metres is exactly where the 2.7 second lap time difference comes from.
+
+The corner exit zones are worth studying carefully on this overlay. Driver 5's trace recovers to straight-line speed faster than the other two after every apex, and their full-throttle time is the shortest of anyone. That's the combined slip technique in action. By managing the throttle while the car is still turning, Driver 5 exits at a speed the other two have to accelerate back up to. They never lost it in the first place.
+
+_____________________________________________________
+
+
+### Plot 3 — Lap Delta Chart
+
+**Driver 3 vs Driver 4**
 Driver 4 is faster at almost every point of the lap. The gap builds most noticeably at the first braking zone around 200 metres and through the medium-radius corners between 1,000 and 1,600 metres. Driver 3 holds no sustained advantage anywhere on the circuit. Total gap — 1.4 seconds to Driver 4.
-Driver 3 vs Driver 5
-This one doesn't oscillate — the delta just grows from start to finish. Driver 5 is faster at every single section and the gap accumulates continuously. The steepest sections of the delta are the tight corner complexes between 400 and 600 metres and 1,000 and 1,200 metres — exactly where the track map analysis identified the 18 to 19 metre hairpins. Driver 5 carries 2 km/h more through each of them and that minimum speed advantage compounds into 2.7 seconds across the lap. Total gap — 2.7 seconds to Driver 5.
-Driver 4 vs Driver 5
+
+**Driver 3 vs Driver 5**
+This one doesn't oscillate — the delta just grows from start to finish. Driver 5 is faster at every single section and the gap accumulates continuously. The steepest sections are the tight corner complexes between 400 and 600 metres and 1,000 and 1,200 metres — exactly where the track map analysis identified the 18 to 19 metre hairpins. Driver 5 carries 2 km/h more through each of them, and that minimum speed advantage compounds into 2.7 seconds across the lap. Total gap — 2.7 seconds to Driver 5.
+
+**Driver 4 vs Driver 5**
 The most interesting comparison of the three. Driver 4 actually holds a brief advantage at the main straight braking zone — they arrive faster and brake harder, which is a legitimate late-braking win at that specific point. But from 300 metres onward, Driver 5 claws it back corner by corner. By 800 metres the deficit is absorbed and Driver 5 builds from there. The braking zone win is real. The lap time loss is also real. Total gap — 1.3 seconds to Driver 5.
-Late braking wins the corner entry. Corner speed wins the lap. The delta chart proves both simultaneously.
-________________________________________
 
-# Plot 4 — Qualifying Lap Time Heatmap
+Late braking wins the corner entry. Corner speed wins the lap. The delta chart proves both at the same time.
 
-This plot is the simplest and most honest summary of the qualifying session. You don't need to read the numbers — the colours tell the story before you get there. Green is fast, red is slow, and each cell is one lap.
+_____________________________________________________
 
-Driver 5's row is the one you want yours to look like. It starts yellow-green on the left and gets progressively darker green moving right, lap after lap. The improvement is consistent and linear — no yellow patches where pace dropped, no orange cells where something went wrong. The best lap marked with a star sits at lap 7 with 1:08.50, and the final lap at the far right reads 84.5 seconds which is the cool-down lap. Nine laps total, average of 72.2 seconds across the session. That's the heatmap pattern of a driver who built confidence progressively and peaked exactly when they needed to.
 
-Driver 3's row tells a different story. The improvement is there — 1:17.50 on the first flying lap down to 1:11.20 by lap 6, which is reasonable progression. But look at the final cell on the right. 1:33.80. That's not a slow lap — that's an incident, an abort, or a yellow flag. The star sits at lap 6, which means Driver 3 found their best lap early and then couldn't improve on it across laps 7 and 8 before the session ended with that anomalous final lap. Eight laps run, best of 1:11.20, average of 76.0 seconds. The plateau at 1:11.20 and 1:11.30 across the final flying laps is the more concerning detail — the improvement stopped arriving before the session did.
+### Plot 4 — Qualifying Lap Time Heatmap
 
-Driver 4's row has one cell that ruins an otherwise reasonable picture. Laps 0 through 2 show clean improvement from 1:13.20 down to 1:11.90. Then lap 3 jumps back to 1:15.40 — yellow against the surrounding greens. Traffic, a mistake, something disrupted that lap. After that the improvement resumes and reaches 1:09.80 at laps 5 and 6 — the two stars sitting side by side, both at exactly the same time. That's the detail that stands out. Driver 4 ran the same best lap twice in a row and couldn't find anything more. The final cell reads 1:36.60 — same situation as Driver 3, an anomalous final lap. Eight laps run, best of 1:09.80, average of 74.9 seconds.
+This plot is the simplest and most honest summary of the qualifying session. You don't even need to read the numbers — the colours tell the story before you get there. Green is fast, red is slow, and each cell is one lap.
 
-The thing the heatmap shows that the lap time chart doesn't is the consistency pattern within the session. Driver 5's row has no outlier cells. Every lap is meaningfully faster than the one before it, or close enough that it tells you the driver is in control of their pace. Driver 3 and Driver 4 both have anomalous cells — the 1:15.40 for Driver 4 mid-session and the final lap disasters for both — that represent lost opportunities and disrupted rhythm.
+Driver 5's row is the one you want yours to look like. It starts yellow-green on the left and gets progressively darker green moving right, lap after lap. The improvement is consistent and linear — no yellow patches where pace dropped, no orange cells where something went wrong. The best lap, marked with a star, sits at lap 7 with 1:08.50, and the final lap at the far right reads 84.5 seconds — the cool-down lap. Nine laps total, session average of 72.2 seconds. That's the heatmap pattern of a driver who built confidence progressively and peaked exactly when they needed to.
+
+Driver 3's row tells a different story. The improvement is there — 1:17.50 on the first flying lap down to 1:11.20 by lap 6, which is reasonable progression. But look at the final cell on the right. 1:33.80. That's not a slow lap — that's an incident, an abort, or a yellow flag. The star sits at lap 6, meaning Driver 3 found their best time early and then couldn't improve across laps 7 and 8 before the session ended with that anomalous final lap. Eight laps run, best of 1:11.20, session average of 76.0 seconds. The plateau at 1:11.20 and 1:11.30 across the final flying laps is the more concerning detail — the improvement stopped arriving before the session did.
+
+Driver 4's row has one cell that ruins an otherwise reasonable picture. Laps 0 through 2 show clean improvement from 1:13.20 down to 1:11.90. Then lap 3 jumps back to 1:15.40 — a yellow patch against the surrounding greens. Traffic, a mistake, something disrupted that lap. After that the improvement resumes and reaches 1:09.80 at laps 5 and 6 — two stars sitting side by side, both at exactly the same time. That's the detail that stands out. Driver 4 ran the same best lap twice in a row and couldn't find anything more. The final cell reads 1:36.60 — same situation as Driver 3, an anomalous final lap. Eight laps run, best of 1:09.80, session average of 74.9 seconds.
+
+What the heatmap shows that the lap time chart doesn't is the consistency pattern within the session. Driver 5's row has no outlier cells. Every lap is meaningfully faster than the one before, or close enough that it tells you the driver is in control of their pace. Driver 3 and Driver 4 both have anomalous cells — the 1:15.40 for Driver 4 mid-session, and the final lap disasters for both — representing lost opportunities and disrupted rhythm.
 
 Best times: Driver 5 at 1:08.50, Driver 4 at 1:09.80, Driver 3 at 1:11.20. Driver 5 lapped 9 times, Driver 3 and Driver 4 both 8. That extra lap for Driver 5 produced the fastest time of the session on what was effectively the final real attempt of qualifying. The session was won in the last flying lap.
-________________________________________
 
-# Plot 5 — Throttle and Brake Overlay
+_____________________________________________________
+
+
+### Plot 5 — Throttle and Brake Overlay
+
 The throttle overlay is where the most counter-intuitive finding in this entire qualifying dataset becomes visible. Driver 5's throttle trace sits lower on the chart than either of the other two for almost the entire lap. Driver 3 and Driver 4 both show sustained periods at full throttle. Driver 5 barely touches the ceiling.
+
 Full throttle time — Driver 4 at 28.8 seconds, Driver 3 at 27.1 seconds, Driver 5 at 2.1 seconds. The fastest driver uses the least full throttle. Every time I show that number to someone who hasn't seen the data, they assume it's a mistake.
+
 Look at what's happening in the corner zones and it makes sense. Driver 3 and Driver 4 both show a binary pattern — throttle drops near zero in the braking zone, stays low through the apex, then snaps up on exit. Driver 5's trace never fully drops to zero and never fully saturates to 100% through the same zones. It sits in the 30 to 70% range through corners, continuously adjusting. Driver 5 is managing the tyre load in real time rather than waiting for a clean state before applying power.
-The brake overlay adds the other side of the picture. The key observation isn't the total brake time — it's when each driver starts the throttle again after braking. Driver 5 consistently begins throttle re-application earlier in the corner, sometimes while brake pressure is still present. The overlap between throttle and brake is intentional — a cornering tool, not a mistake.
-________________________________________
-# Plot 6 — Trail Braking Gate
+
+The brake overlay adds the other side of the picture. The key observation isn't total brake time — it's when each driver starts the throttle again after braking. Driver 5 consistently begins throttle re-application earlier in the corner, sometimes while brake pressure is still present. The overlap between throttle and brake is intentional — a cornering tool, not a mistake.
+
+_____________________________________________________
+
+
+### Plot 6 — Trail Braking Gate
+
 Driver 3 shows 64% of the lap with both channels above 5% — 45.4 seconds across 33 zones. Still the brake position sensor residual. The genuine trail braking events are the sustained zones above a second, concentrated at the primary braking markers. The rest is sensor noise.
+
 Driver 4 shows 5.1 seconds across 37 zones. Thirty-seven zones for 5.1 seconds gives an average zone length of 0.14 seconds. That's not trail braking — that's the brake sensor residual flickering the gate open briefly whenever the throttle rises above 5%. The real events are the longer zones at the primary corners.
-Driver 5 shows 3.5 seconds across 16 zones — the cleanest reading of the three. Some of those 16 are still artefacts, but the genuine zones are identifiable — sustained signals at the primary hairpin entries where the pressure data confirms simultaneous hydraulic pressure and partial throttle.
+
+Driver 5 shows 3.5 seconds across 16 zones — the cleanest reading of the three. Some of those 16 are still artefacts, but the genuine zones are identifiable: sustained signals at the primary hairpin entries where the pressure data confirms simultaneous hydraulic pressure and partial throttle.
+
 The most useful thing this plot reveals isn't the numbers — it's the position of Driver 5's genuine trail braking zones on the distance axis. They occur later in the braking event than the other two drivers. Deeper into the corner. That's not just trail braking — that's trail braking in the part of the corner where it actually shifts load to the front axle and allows a tighter line.
-________________________________________
-# Plot 7 — Throttle Derivative
+
+_____________________________________________________
+
+
+### Plot 7 — Throttle Derivative
+
 Driver 5's derivative panel has a distinctive shape — long flat near-zero regions with sharp spikes at specific points. The flat regions are the continuous partial throttle zones where the signal is changing slowly. The spikes are the precise transition moments where Driver 5 commits from corner to straight, or shuts off cleanly for braking.
+
 Maximum opening rate of 630 %/s — highest of the three. Maximum closing rate of -1,060 %/s — also highest. Mean opening rate of 47 %/s — lowest. High peaks, low mean. Smooth everywhere, sharp at the moments that matter. That combination is the whole technique in three numbers.
-Driver 3's panel is busier. More frequent moderate spikes spread across the lap rather than concentrated at transition points. Maximum opening rate of only 394 %/s — the lowest of the three. When Driver 3 commits to the throttle, they do so less decisively than either other driver. The mean of 71 %/s is the highest, but only because there's more frequent smaller movement rather than fewer larger committed inputs. More activity, less precision.
+
+Driver 3's panel is busier. More frequent moderate spikes spread across the lap rather than concentrated at transition points. Maximum opening rate of only 394 %/s — lowest of the three. When Driver 3 commits to the throttle, they do so less decisively than either other driver. The mean of 71 %/s is the highest, but only because there's more frequent smaller movement rather than fewer larger committed inputs. More activity, less precision.
+
 Driver 4 sits between the two. The derivative panel shows a cleaner binary structure than Driver 3 — defined open and close events that align clearly with corner exit points on the circuit. The inputs are circuit-referenced, not reactive. That's a more disciplined technique than Driver 3, but without the subtlety of Driver 5's continuous modulation.
-________________________________________
-# Plot 8 — Steering Derivative
-Driver 3's panel shows maximum right rate of 631 deg/s and maximum left of -1,200 deg/s. The left rate is 90% higher than the right. Driver 3 is nearly twice as aggressive turning into left-hand corners as right-hand corners. On a circuit where the major braking zones feed left-hand hairpins, those left-hand entries are significantly more violent — higher risk of transient oversteer — while the right-hand entries are comparatively smooth. That asymmetry is a weakness that the circuit layout directly punishes.
+
+_____________________________________________________
+
+
+### Plot 8 — Steering Derivative
+
+Driver 3's panel shows maximum right rate of 631 deg/s and maximum left of -1,200 deg/s. The left rate is 90% higher than the right. Driver 3 is nearly twice as aggressive turning into left-hand corners as right-hand corners. On a circuit where the major braking zones feed left-hand hairpins, those left-hand entries are significantly more violent — higher risk of transient oversteer — while the right-hand entries are comparatively smooth. That asymmetry is a weakness, and the circuit layout directly punishes it.
+
 Driver 4 shows 592 deg/s right, -562 deg/s left. Near-perfect symmetry. Driver 4 applies the same aggression to both directions, which means no directional weakness and no directional strength either. Consistent and balanced — but balanced at an aggression level that doesn't produce the fastest corner speeds.
+
 Driver 5 shows 649 deg/s right, -532 deg/s left. Mild asymmetry, but in the opposite direction to Driver 3 — slightly more aggressive turning right. Right-hand turn-ins on this circuit enter the left-hand hairpins that lead to the main straight. The most performance-critical corners on the lap. Driver 5 is applying the highest steering rates at the corners where the most time is available. That's not an asymmetric habit — it's deliberate prioritisation.
+
 Mean absolute steering rates — Driver 4 at 57 deg/s, Driver 3 at 54 deg/s, Driver 5 at 52 deg/s. Driver 5 uses the least average steering input while carrying the highest corner speeds. Less correction needed because the line was planned correctly, not adjusted reactively.
-________________________________________
-# Plot 9 — GG Diagram Overlay
+
+_____________________________________________________
+
+
+### Plot 9 — GG Diagram Overlay
+
 Three overlapping clouds, three dashed envelope circles. Driver 3's cloud extends furthest at 5.314g — reflecting either genuine higher physical loading or a different sensor calibration. Driver 4 and Driver 5 sit at 2.562g and 2.809g respectively. The accelerometer scaling concern means Driver 3's absolute values can't be directly compared to the other two, but the Driver 4 to Driver 5 comparison is valid — same equipment, same potential scaling issue.
-Driver 5's envelope of 2.809g is larger than Driver 4's 2.562g. Mean combined G of 1.206g versus Driver 4's 1.124g. Driver 5 loads the tyres harder on average across the lap. Faster and harder on the tyres simultaneously — which is what you'd expect from a technique built around maintaining continuous load rather than cycling between loaded and unloaded states.
+
+Driver 5's envelope of 2.809g is larger than Driver 4's 2.562g. Mean combined G of 1.206g versus Driver 4's 1.124g. Driver 5 loads the tyres harder on average across the lap. Faster and harder on the tyres simultaneously — which is exactly what you'd expect from a technique built around maintaining continuous load rather than cycling between loaded and unloaded states.
+
 The quadrant that tells the clearest story is acceleration-plus-right-turn. Driver 5 spends 21.6 seconds there — more than any other driver. That quadrant is corner exit from left-hand hairpins onto the straights. More time there means more time on power while still turning. That's the partial throttle technique showing up as physical proof in the GG diagram — not just a number on a throttle channel, but actual tyre loading data confirming the car is being driven in combined grip for longer than any other driver.
-Driver 3's heaviest loading falls in the braking-plus-left quadrant — hard into left corners, aggressive turn-in, then working to recover speed through the apex. Committing to the braking event rather than the corner speed. The steering asymmetry from Plot 8 and the braking G distribution here tell exactly the same story from two different sensors.
-________________________________________
+
+Driver 3's heaviest loading falls in the braking-plus-left quadrant — hard into left corners, aggressive turn-in, then working to recover speed through the apex. Committing to the braking event rather than the corner speed. The steering asymmetry from Plot 8 and the braking G distribution here are telling exactly the same story from two different sensors.
+
+_____________________________________________________
 
 
 ## Conclusion — Who is Fastest and Why
-# Qualifying
+
+### Qualifying
+
 Driver 5 takes pole at 1:08.5. Driver 4 is 1.3 seconds behind at 1:09.8, and Driver 3 another 1.4 back at 1:11.2.
-________________________________________
-# Driver 5 — Why They're Fastest
-There's one number in this data that genuinely makes you stop and re-read it. Driver 5 spends 2.1 seconds at full throttle. That's it. 3% of the lap. Meanwhile Driver 4 is flat for 28.8 seconds, Driver 3 for 27.1. The fastest driver on the grid is barely pressing the throttle to the floor, and the first time you see that it makes absolutely no sense.
+
+---
+
+### Driver 5 — Why They're Fastest
+
+There's one number in this data that genuinely makes you stop and re-read it. Driver 5 spends 2.1 seconds at full throttle. That's it — 3% of the lap. Meanwhile Driver 4 is flat for 28.8 seconds, Driver 3 for 27.1. The fastest driver on the grid is barely pressing the throttle to the floor, and the first time you see that number it makes absolutely no sense.
+
 Until you look at corner speed.
+
 Driver 5 carries 61 km/h through the tightest hairpin on the circuit. Driver 3 manages 59. Driver 4 only 54. And that's really the whole story right there. Speed that's never lost doesn't need to be rebuilt. Driver 5 arrives at every straight already going faster than the others, so by the time the straight is done, it's basically already done. The 2.1 seconds of full throttle isn't a weakness — it's the proof that the straight was over before it really began.
+
 The way Driver 5 achieves that corner speed is what separates them completely from the other two. Driver 3 and Driver 4 are both essentially binary with the throttle — it's either on or it's off. Driver 5 spends 45 seconds of the lap in partial throttle, managing the balance between grip and acceleration through every corner exit, the whole way round. Look at the throttle data and you see a maximum opening rate of 630 %/s — sharpest of the three — but a mean rate of only 42 %/s, which is the slowest. Big inputs at the right moments, smooth and measured everywhere else. That's not easy to do. Most drivers default to one or the other.
-The braking reflects the same thing. Driver 5 peaks at 39.70 bar — hardest of anyone in qualifying — but does it across only 5 braking zones. Driver 4 hits 34.91 bar across 10. Driver 5 is braking harder and less often, because arriving faster at every corner means you can brake later at every corner. And that later braking point was only made possible by the corner exit before it. Each part of the lap feeds into the next.
+
+The braking reflects the same thing. Driver 5 peaks at 39.70 bar — hardest of anyone in qualifying — but does it across only 5 braking zones. Driver 4 hits 34.91 bar across 10. Driver 5 is braking harder and less often, because arriving faster at every corner means you can brake later at every corner. And that later braking point was only made possible by the corner exit before it. Each part of the lap feeds directly into the next.
+
 What really seals it though is the wheelspin number. Driver 5 — the fastest, the hardest braking, the highest corner speeds — produces the least wheelspin of the three. 8.32% maximum, 12 seconds above the 3% threshold. The most aggressive driver is losing the least traction. That's not luck. That's exactly what proper combined slip management looks like when it's working.
-________________________________________
-# Driver 4 — Why They're Second
+
+_____________________________________________________
+
+
+### Driver 4 — Why They're Second
+
 There's nothing wrong with Driver 4's technique in isolation. Most symmetric steering, clean threshold braking, highest full throttle time — this is clearly a practised, disciplined driver. On any other circuit you'd take that profile all day.
+
 The problem is minimum corner speed at 54 km/h — 7 km/h slower than Driver 5 at the single tightest point on the track. On a circuit where more than half the lap is spent cornering, that's not a small thing. It doesn't stay as 7 km/h — it compounds corner after corner. The binary approach works fine at each individual corner, but on a track this tight the next corner arrives before you've really finished dealing with the last one. The technique is running out of road to work in.
-________________________________________
-# Driver 3 — Why They're Third
+
+_____________________________________________________
+
+
+### Driver 3 — Why They're Third
+
 The straight is fine — 193 km/h top speed is competitive. Everything else is pointing in the wrong direction.
+
 Highest wheelspin in the session. Steering that's nearly twice as aggressive turning left as right, on a track where the main hairpins are left-hand corners — exactly the worst place for that asymmetry to show up. Slowest throttle commitment of the three. And despite being the slowest driver, the hottest engine temperatures in the health data.
-The wheelspin location is the real issue. It peaks at 26% throttle, mid-corner, while the car is still loaded laterally. This isn't wheelspin exiting onto a straight — it's the tyre losing traction in the part of the corner where it absolutely cannot afford to. The car is simultaneously losing time and generating heat in the worst possible place to do both. The engine temperatures are just the result of that — friction where there should be forward motion, corner after corner.
-________________________________________
+
+The wheelspin location is the real issue. It peaks at 26% throttle, mid-corner, while the car is still loaded laterally. This isn't wheelspin exiting onto a straight — it's the tyre losing traction in the part of the corner where it absolutely cannot afford to. The car is simultaneously losing time and generating heat in the worst possible place to do both. The engine temperatures are just the downstream result of that — friction where there should be forward motion, corner after corner.
+
+_____________________________________________________
 
 
+## Race — Plot Analysis
 
+### Plot 1 — Race Lap Time Progression
 
-
-
-# Race — Plot Analysis
-# Plot 1 — Race Lap Time Progression
 Driver 5 is simply the fastest driver in this race. Best lap of 70.7 seconds against Driver 4's 71.9 and Driver 3's 74.0. That 3.3 second gap to Driver 3 might not feel massive when you say it out loud, but run it over 20 laps and Driver 5 is more than a minute up the road. At that point the race is over — you're not coming back from a minute.
-What I found more interesting than the raw times is the trend across the race. All three drivers got quicker as the laps went on, which is what you'd expect — tyres come in, the driver gets braver, the fuel burns off and the car lightens up. Driver 4 ran 22 laps and showed the most consistent improvement across the stint. Driver 5 across 21 laps started fast and just kept getting faster. Driver 3 across 20 laps improved but never at the same rate as the other two.
-Driver 3's lap time spread of 23.4 seconds from slowest to fastest is what stands out. That's a big window. Something was going wrong — whether that's incidents, traffic, or inconsistent technique under pressure, I can't tell from this plot alone. Driver 5's spread of 16.0 seconds is tighter, and Driver 4's spread of 24.0 seconds is actually the widest — suggesting the most lap-to-lap variation of the three despite being second fastest overall.
-________________________________________
-# Plot 2 — Race Speed Trace Overlay
-Top speeds are close. Driver 4 leads at 195 km/h, Driver 5 at 194, Driver 3 at 191. Four kilometres per hour separating first from last on the same spec car. The straight isn't where this race is being decided.
-Minimum corner speeds — Driver 4 is lowest at 53 km/h, Driver 5 at 55, Driver 3 at 56. Which at first glance looks odd — the fastest driver doesn't carry the most minimum corner speed. But when you look at average speed across the full lap, Driver 5 comes out on top at 110 km/h against Driver 4's 108 and Driver 3's 105. Driver 5 isn't necessarily fastest through any one corner — they're the most consistently quick everywhere with no section of the lap where they're giving time away.
-The speed traces spread furthest at corner exits. Every time. That's the consistent pattern and it tells you exactly where the lap time difference is being generated — traction out of the slow corners, not top speed on the straight.
-________________________________________
-# Plot 3 — Lap Delta Chart
-Driver 3 versus Driver 4 — Driver 4 is faster across almost the entire lap. The gap builds progressively and reaches 2.05 seconds by the end. Driver 3 is briefly faster only in the first 50 metres, then Driver 4 is ahead for the remaining 2,090 metres of the circuit.
-Driver 3 versus Driver 5 — the delta just grows from start to finish. Driver 5 is faster across 2,115 metres of the 2,154 metre lap. The gap reaches 3.25 seconds by the end. Driver 3 has a brief advantage in only the first 29 metres. After that, nothing.
-Driver 4 versus Driver 5 — the most interesting comparison. Driver 4 holds an advantage at the very start — the main straight braking zone where the late-braking technique gains a few tenths. But from around 250 metres onward Driver 5 builds the gap steadily. Driver 4 is faster for only 232 metres of the lap. Driver 5 is faster for 1,908 metres. The gap at the end is 1.20 seconds.
-The thing that stands out across all three is that nobody ever goes significantly faster than Driver 5 anywhere. A driver can be quicker in one place — Driver 4 at the braking zone — but never by enough, and never for long enough. Driver 5 is better at more places than the other two.
-________________________________________
-# Plot 4 — Race Lap Time Heatmap
-Driver 5's row is the easiest to read. It gets progressively greener from left to right across all 21 laps with no red spikes anywhere in the middle of the race. Consistent improvement, no drama. That's a driver who managed the race exactly as you'd want to.
-Driver 4's row is patchier. The improvement is there but less linear — some laps mid-race where pace drops slightly before recovering. Their best lap comes right at the end of the stint on lap 20, which you could read positively. But it also means they spent most of the race below their own ceiling.
-Driver 3's row has the most difficult story. The worst lap comes at lap 19 — a clear red spike at 1:37.40 — which is an incident or a safety car period rather than general inconsistency. Outside of that event the laps are yellow-green throughout, gradually improving. Their best lap of 1:14.00 also comes late, at lap 19 before the spike, meaning the fastest lap and the slowest lap are right next to each other. Something happened in that window that cost them significantly.
-________________________________________
-#  5 — Throttle and Brake Overlay
-Driver 3 is the first thing you notice. In qualifying they were flat on the throttle for 27 seconds — 38% of the lap. In the race that's down to 6.3 seconds at 9%. The sustained full-throttle bursts on every straight are basically gone.
-That doesn't happen by choice. When a driver stops committing to the throttle that dramatically, the rear of the car has stopped giving them what they need. The trust is gone. So instead of pinning it, they're feeding the power in carefully. It's the data signature of a driver managing a problem they can't fully solve.
-Driver 4 barely changes — 28.8 seconds full throttle in qualifying, 24.7 in the race at 34%. Four seconds less, which is about right for fuel load and tyre wear. The same binary open-close character is still there, just with the edges slightly softened for a heavier car.
-Driver 5 goes from 2.1 seconds flat throttle in qualifying to 0.5 seconds in the race at 1%. That looks like deterioration but it's not — Driver 5 was already barely using flat throttle. The 0.5 seconds just confirms the continuous partial-throttle technique is being managed even more conservatively over a race distance.
-On the brakes — Driver 3's on-brake time reads 72.5 seconds at 98%, still the sensor residual. Driver 4 jumps to 60.7 seconds at 84% from qualifying's 26 — a real increase driven by traffic and defensive driving, and max pressure rises to 36.5 bar. Driver 5 holds at 26.4 seconds at 37%, essentially unchanged from qualifying's 23.4. Most consistent braking profile in the field. Max pressure drops to 26.6 bar from qualifying's 39.7 — tyre management or a deliberate choice to reduce brake stress over the full race distance.
-________________________________________
-# Plot 6 — Trail Braking Gate
-Driver 4 is where the biggest story is. In qualifying — 5.1 seconds of trail braking, mostly sensor noise. In the race — 34.1 seconds across 69 zones. That's 47% of the lap. You can't explain that away with sensor artefacts.
-Driver 4 is using trail braking as a correction tool rather than a planned technique. The car is heavier on fuel, the tyres are degrading, corners are approached with less precision under traffic — and when a car feels unstable at corner entry, the instinctive response is to hold partial brake while bleeding in some throttle to redistribute weight. Driver 4 is doing that correction more and more frequently. Sixty-nine zones at roughly half a second each tells you it's reactive, not planned.
-Driver 3 goes from 45.4 seconds in qualifying to 46.6 seconds in the race across 23 zones — essentially unchanged. Sensor residual still doing most of the talking. The zone count drops from 33 to 23 but the individual zones are longer, consistent with a driver entering corners slower and leaning on braking load to rotate the car for the apex.
-Driver 5 reduces trail braking in the race — 3.5 seconds in qualifying down to 2.5 seconds across 15 zones. On degrading tyres, overlapping throttle and brake is a riskier move than on fresh rubber. Driver 5 recognises that and pulls back. Still using it at the specific corners where it matters. Just not as freely.
-________________________________________
-# Plot 7 — Throttle Derivative
-Driver 3's maximum opening rate jumps from 394 %/s in qualifying to 733 %/s in the race. Biggest change of the three by a long way. But the mean rate is 54 %/s — those aggressive inputs are concentrated at specific moments rather than a general style change. Almost certainly overtaking attempts, or corners where Driver 3 goes for it, finds wheelspin, and has to immediately back off. The spike and the correction.
-Driver 4 drops from 505 %/s in qualifying to 448 %/s in the race. Less aggressive at the snap, mean opens at 63 %/s — slightly more frequent overall. That's the sensible adaptation. Reduce the inputs that cause wheelspin on degrading tyres, increase the frequency of moderate inputs to keep momentum through the lap.
-Driver 5's peak drops from 630 to 513 %/s. Deliberate. But the mean — 48 %/s in the race against 47 %/s in qualifying — is essentially identical. That's the number that matters. The peak is softer because the tyres need it to be. The average behaviour hasn't changed at all. That's what technique consistency actually looks like across sessions.
-The largest throttle spikes occur at the same positions on track for every driver — the hairpin exits. Everyone puts the power down in the same places. The difference is what happens after the spike. Driver 3 shows oscillation — the spike, then corrections as wheelspin hits. Driver 4 shows clean single peaks. Driver 5's spikes are sharp and then immediately flat. Applied it, it stuck, moved on.
-________________________________________
-# Plot 8 — Steering Derivative
-Driver 3's steering data between qualifying and race doesn't just change — it flips completely. In qualifying the left-hand rate dominated at -1,200 deg/s, right side at 631. In the race, right dominates at 1,310 deg/s, left drops to -643. The most aggressive side has swapped entirely.
-That's not a setup adjustment. That's a car that changed underneath the driver mid-race and a driver who ran out of answers for it. Most likely cause is tyre degradation on the left-rear. As it goes away, the car stops rotating cleanly on left-hand entries. Driver 3 reduces aggression on the left side to stop making it worse and overcompensates on the right side trying to find rotation elsewhere. It works partially. It doesn't fix the lap time. Mean rate drops slightly to 48 deg/s.
-Driver 4's left-hand rate increases from -562 in qualifying to -975 in the race — a 73% increase. Right goes from 592 to 740. The car is heavier on fuel and turns in slower, so Driver 4 commits more aggressively on left entries to get the same rotation. Mean rate increases to 60 deg/s, aggressive input time above 200 deg/s rises to 4.9 seconds. More active steering across the board.
-Driver 5 goes more aggressive in both directions — right from 649 to 872, left from -532 to -760. Both sides, more committed. That's the opposite of a driver struggling. That's a driver who's found the race balance and is using more decisive turn-in to hold qualifying corner speeds against the additional fuel load. Mean rate increases to 57 deg/s.
-________________________________________
-# Plot 9 — GG Diagram Overlay
-Driver 3's race GG diagram shows an envelope of 5.19g — slightly down from qualifying's 5.31g, as expected with tyre wear. Lateral G actually increases to 6.51g in the race against 5.89g in qualifying, and braking G increases to -6.01g from -5.41g. Driver 3 is loading the car harder in the race despite slower lap times — consistent with a driver pushing harder to compensate for lost corner speed rather than finding it efficiently.
-Driver 4 has the number that stands out — braking G drops from -3.80g in qualifying to -2.85g in the race, a 25% reduction. Normal tyre degradation doesn't do that to longitudinal grip. Either Driver 4 is deliberately managing brake pressure to protect the system over race distance, or the voltage instability from the car health data is affecting sensor readings. The envelope holds near qualifying at 2.50g. Lateral G actually increases to 5.42g — Driver 4 is generating more cornering force in the race, consistent with more aggressive steering inputs shown in Plot 8.
-Driver 5's envelope is 2.46g — close to qualifying's 2.81g. Lateral G rises to 5.55g and braking G to -3.23g, both up from qualifying. Driver 5 is loading the car harder in the race in both lateral and longitudinal directions. The traction circle is being used with more intensity across the board, distributed differently around the quadrants as conditions change. The technique adapts but the commitment level stays high.
-________________________________________
-# Conclusion 
-# Race
-Driver 5 — best lap 1:10.7, spread 11.6 seconds, standard deviation 1.96 seconds. Driver 4 — best lap 1:11.9, spread 24.0 seconds, standard deviation 2.55 seconds. Driver 3 — best lap 1:14.0, spread 23.4 seconds, standard deviation 2.24 seconds.
-________________________________________
-# Driver 5 — Why They Win the Race Too
-The advantage carries over from qualifying, but the reason changes. In qualifying it was corner speed. In the race it's about who can keep doing the same thing for 20 laps while the tyres wear and the car gradually stops behaving the way it did on lap one.
-Forget the best lap. The number that actually decides this race is standard deviation. Driver 5 at 1.96 seconds means lap after lap after lap that looks almost identical. Driver 4 at 2.55 means more variation, more reacting, more compensating. Over 21 laps, that gap in consistency is where the result gets settled — not in any single lap time comparison.
-What's remarkable is how little Driver 5's technique actually changes between qualifying and the race. Full throttle drops from 2.1 to 0.5 seconds. Trail braking goes from 3.5 to 2.5 seconds. Mean throttle opening rate moves from 47 to 48 %/s — essentially unchanged. The whole approach just scales down slightly and continues working. Nothing unravels, nothing needs rethinking. The lap spread of 11.6 seconds is exactly half what Driver 4 and Driver 3 produce. No bad stints, no crisis laps, no moments where you can see in the data that something went wrong. Just the same thing, done well, repeated.
-All three drivers found more time as the race went on — tyres warmed up properly, fuel came off, rhythm built. Driver 4 improved the most from their early laps to their late ones. But Driver 5 was fastest at the start and fastest at the end. The improvement happened from a position of control. Not catch-up.
-________________________________________
-# Driver 4 — Why They're Second in the Race
-A best lap of 1:11.9, only 1.2 seconds off Driver 5. On one lap that gap feels like nothing. Across race distance it tells a different story.
-Trail braking zones go from 37 in qualifying to 69 in the race. That's not a data anomaly — that's the number of times mid-corner the car felt unstable and the brakes had to stay on to manage it, rather than the corner being entered cleanly on a committed line. Forty-seven percent of the race lap spent reacting to a car that isn't quite doing what it should. The 2.55 standard deviation is the natural result.
-The left-hand steering rate increases 73% from qualifying to race — -562 to -975 deg/s — because Driver 4 is throwing more aggression at the wheel to compensate for a car that's heavier and less responsive than it was on a flying lap. It keeps the pace close enough to look competitive. But fighting the car for 20 laps is expensive in a way that fighting it for one qualifying lap simply isn't.
-________________________________________
-# Driver 3 — Why They're Third in the Race
-Full throttle time drops from 27.1 seconds in qualifying to 6.3 seconds in the race. Twenty seconds of committed power application, gone. That is the single biggest channel change of any driver across this entire dataset.
-That kind of change only happens when a driver has stopped trusting the rear under acceleration. The confident flat exits from qualifying are replaced by careful, tentative throttle application, testing for grip on every corner exit. The intention is to stop the wheelspin. What actually happens is the wheelspin gets worse — from 14.8 seconds in qualifying to 18.4 in the race, more than any other driver in either session. Lifting the throttle didn't solve the problem. It just made the car slower while the problem carried on.
-The steering data shows exactly what happened to the car underneath Driver 3 during the race. Left-hand rate dominated in qualifying at -1,200 deg/s. In the race, right-hand dominates at 1,310 deg/s — completely reversed. The left-rear tyre degraded faster, the car lost rotation on left entries, and Driver 3 instinctively backed off on the left side and pushed harder on the right to compensate. That's the right instinct for an unbalanced car. It's just not enough to claw back 3.3 seconds a lap. Over 20 laps that's over a minute. The race was done before halfway.
-________________________________________
-# The Overall Picture
-Driver 5 wins both sessions for the same fundamental reason — a technique that uses the tyre for cornering and acceleration at the same time, rather than one and then the other. It's harder to execute consistently than anything Driver 3 or Driver 4 is doing. It's also far more durable. When the tyres start going away, a binary technique loses its foundation. A technique that's already continuously adapting on every exit doesn't have a foundation to lose.
-Driver 4 is genuinely quick — the 1.2-second race gap is closeable. But the fix is probably in the setup, not the driving. If the car rotated more naturally under race fuel, the aggressive steering inputs and the near-doubling of trail braking corrections would likely disappear with it. The speed is real. The car just isn't letting it out cleanly enough.
-Driver 3's situation traces back to one thing — 18.4 seconds of wheelspin in the race. Everything else in this data, the throttle hesitancy, the tyre degradation asymmetry, the steering reversal, the engine temperatures — it all comes from that. Fix the corner exit traction and most of those symptoms clear up on their own. The differential calibration is the most obvious place to start, because the wheelspin is peaking mid-corner under partial throttle, not on the straight. That points to the diff locking too hard during the combined load phase, not a throttle application problem in the traditional sense.
-The car problem and the driver problem, as they've been throughout this entire analysis, are the same problem.
 
+What I found more interesting than the raw times is the trend across the race. All three drivers got quicker as the laps went on, which is what you'd expect — tyres come in, the driver gets braver, the fuel burns off and the car lightens up. Driver 4 ran 22 laps and showed the most consistent improvement across the stint. Driver 5 across 21 laps started fast and just kept getting faster. Driver 3 across 20 laps improved but never at the same rate as the other two.
+
+Driver 3's lap time spread of 23.4 seconds from slowest to fastest is what stands out. That's a big window. Something was going wrong — whether that's incidents, traffic, or inconsistent technique under pressure, I can't tell from this plot alone. Driver 5's spread of 16.0 seconds is tighter, and Driver 4's spread of 24.0 seconds is actually the widest — suggesting the most lap-to-lap variation of the three despite being second fastest overall.
+
+_____________________________________________________
+
+
+### Plot 2 — Race Speed Trace Overlay
+
+Top speeds are close. Driver 4 leads at 195 km/h, Driver 5 at 194, Driver 3 at 191. Four kilometres per hour separating first from last on the same spec car. The straight isn't where this race is being decided.
+
+Minimum corner speeds — Driver 4 is lowest at 53 km/h, Driver 5 at 55, Driver 3 at 56. Which at first glance looks odd — the fastest driver doesn't carry the most minimum corner speed. But when you look at average speed across the full lap, Driver 5 comes out on top at 110 km/h against Driver 4's 108 and Driver 3's 105. Driver 5 isn't necessarily fastest through any one corner — they're the most consistently quick everywhere, with no section of the lap where they're giving time away.
+
+The speed traces spread furthest at corner exits. Every time. That's the consistent pattern, and it tells you exactly where the lap time difference is being generated — traction out of the slow corners, not top speed on the straight.
+
+_____________________________________________________
+
+
+### Plot 3 — Lap Delta Chart
+
+**Driver 3 versus Driver 4** — Driver 4 is faster across almost the entire lap. The gap builds progressively and reaches 2.05 seconds by the end. Driver 3 is briefly faster only in the first 50 metres, then Driver 4 is ahead for the remaining 2,090 metres of the circuit.
+
+**Driver 3 versus Driver 5** — the delta just grows from start to finish. Driver 5 is faster across 2,115 metres of the 2,154 metre lap. The gap reaches 3.25 seconds by the end. Driver 3 has a brief advantage in only the first 29 metres. After that, nothing.
+
+**Driver 4 versus Driver 5** — the most interesting comparison. Driver 4 holds an advantage at the very start — the main straight braking zone where the late-braking technique gains a few tenths. But from around 250 metres onward Driver 5 builds the gap steadily. Driver 4 is faster for only 232 metres of the lap. Driver 5 is faster for 1,908 metres. The gap at the end is 1.20 seconds.
+
+The thing that stands out across all three comparisons is that nobody ever goes significantly faster than Driver 5 anywhere. A driver can be quicker in one place — Driver 4 at the braking zone — but never by enough, and never for long enough. Driver 5 is simply better at more places than the other two.
+
+_____________________________________________________
+
+
+### Plot 4 — Race Lap Time Heatmap
+
+Driver 5's row is the easiest to read. It gets progressively greener from left to right across all 21 laps with no red spikes anywhere in the middle of the race. Consistent improvement, no drama. That's a driver who managed the race exactly as you'd want to.
+
+Driver 4's row is patchier. The improvement is there but less linear — some laps mid-race where pace drops slightly before recovering. Their best lap comes right at the end of the stint on lap 20, which you could read positively. But it also means they spent most of the race below their own ceiling.
+
+Driver 3's row has the most difficult story. The worst lap comes at lap 19 — a clear red spike at 1:37.40 — which is an incident or a safety car period rather than general inconsistency. Outside of that event the laps are yellow-green throughout, gradually improving. Their best lap of 1:14.00 also comes late, at lap 19 before the spike, meaning the fastest lap and the slowest lap are right next to each other. Something happened in that window that cost them significantly.
+
+_____________________________________________________
+
+
+### Plot 5 — Throttle and Brake Overlay
+
+Driver 3 is the first thing you notice. In qualifying they were flat on the throttle for 27 seconds — 38% of the lap. In the race that's down to 6.3 seconds at 9%. The sustained full-throttle bursts on every straight are basically gone.
+
+That doesn't happen by choice. When a driver stops committing to the throttle that dramatically, the rear of the car has stopped giving them what they need. The trust is gone. So instead of pinning it, they're feeding the power in carefully, testing for grip on every exit. The intention is to protect the car. What it actually does is slow everything down while the problem continues underneath.
+
+Driver 4 barely changes — 28.8 seconds full throttle in qualifying, 24.7 in the race at 34%. Four seconds less, which is about right for fuel load and tyre wear. The same binary open-close character is still there, just with the edges slightly softened for a heavier car.
+
+Driver 5 goes from 2.1 seconds flat throttle in qualifying to 0.5 seconds in the race at 1%. That looks like deterioration but it isn't — Driver 5 was already barely using flat throttle. The 0.5 seconds just confirms the continuous partial-throttle technique is being managed even more conservatively over race distance.
+
+On the brakes — Driver 3's on-brake time reads 72.5 seconds at 98%, still the sensor residual. Driver 4 jumps to 60.7 seconds at 84% from qualifying's 26 — a real increase driven by traffic and defensive driving, with max pressure rising to 36.5 bar. Driver 5 holds at 26.4 seconds at 37%, essentially unchanged from qualifying's 23.4. Most consistent braking profile in the field. Max pressure drops to 26.6 bar from qualifying's 39.7 — tyre management or a deliberate choice to reduce brake stress over the full race distance.
+
+_____________________________________________________
+
+
+### Plot 6 — Trail Braking Gate
+
+Driver 4 is where the biggest story is. In qualifying — 5.1 seconds of trail braking, mostly sensor noise. In the race — 34.1 seconds across 69 zones. That's 47% of the lap. You can't explain that away with sensor artefacts.
+
+Driver 4 is using trail braking as a correction tool rather than a planned technique. The car is heavier on fuel, the tyres are degrading, corners are approached with less precision under traffic — and when a car feels unstable at corner entry, the instinctive response is to hold partial brake while bleeding in some throttle to redistribute weight. Driver 4 is doing that correction more and more frequently. Sixty-nine zones at roughly half a second each tells you it's reactive, not planned.
+
+Driver 3 goes from 45.4 seconds in qualifying to 46.6 seconds in the race across 23 zones — essentially unchanged. Sensor residual still doing most of the talking. The zone count drops from 33 to 23, but the individual zones are longer, consistent with a driver entering corners slower and leaning on braking load to rotate the car for the apex.
+
+Driver 5 reduces trail braking in the race — 3.5 seconds in qualifying down to 2.5 seconds across 15 zones. On degrading tyres, overlapping throttle and brake is a riskier move than on fresh rubber. Driver 5 recognises that and pulls back. Still using it at the specific corners where it matters. Just not as freely.
+
+_____________________________________________________
+
+
+### Plot 7 — Throttle Derivative
+
+Driver 3's maximum opening rate jumps from 394 %/s in qualifying to 733 %/s in the race. The biggest change of the three by a long way. But the mean rate is 54 %/s — those aggressive inputs are concentrated at specific moments rather than a general style change. Almost certainly overtaking attempts, or corners where Driver 3 goes for it, finds wheelspin, and immediately has to back off. The spike and the correction.
+
+Driver 4 drops from 505 %/s in qualifying to 448 %/s in the race. Less aggressive at the snap, mean opens at 63 %/s — slightly more frequent overall. That's the sensible adaptation. Reduce the inputs that cause wheelspin on degrading tyres, increase the frequency of moderate inputs to keep momentum through the lap.
+
+Driver 5's peak drops from 630 to 513 %/s. Deliberate. But the mean — 48 %/s in the race against 47 %/s in qualifying — is essentially identical. That's the number that matters. The peak is softer because the tyres need it to be. The average behaviour hasn't changed at all. That's what technique consistency actually looks like across sessions.
+
+The largest throttle spikes occur at the same positions on track for every driver — the hairpin exits. Everyone puts the power down in the same places. The difference is what happens after the spike. Driver 3 shows oscillation — the spike, then corrections as wheelspin hits. Driver 4 shows clean single peaks. Driver 5's spikes are sharp and then immediately flat. Applied it, it stuck, moved on.
+
+_____________________________________________________
+
+
+### Plot 8 — Steering Derivative
+
+Driver 3's steering data between qualifying and race doesn't just change — it flips completely. In qualifying the left-hand rate dominated at -1,200 deg/s, right side at 631. In the race, right dominates at 1,310 deg/s, left drops to -643. The most aggressive side has swapped entirely.
+
+That's not a setup adjustment. That's a car that changed underneath the driver mid-race and a driver who ran out of answers for it. Most likely cause is tyre degradation on the left-rear. As it goes away, the car stops rotating cleanly on left-hand entries. Driver 3 reduces aggression on the left side to stop making it worse and overcompensates on the right side trying to find rotation elsewhere. It works partially. It doesn't fix the lap time. Mean rate drops slightly to 48 deg/s.
+
+Driver 4's left-hand rate increases from -562 in qualifying to -975 in the race — a 73% increase. Right goes from 592 to 740. The car is heavier on fuel and turns in slower, so Driver 4 commits more aggressively on left entries to get the same rotation. Mean rate increases to 60 deg/s, aggressive input time above 200 deg/s rises to 4.9 seconds. More active steering across the board.
+
+Driver 5 goes more aggressive in both directions — right from 649 to 872, left from -532 to -760. Both sides, more committed. That's the opposite of a driver struggling. That's a driver who's found the race balance and is using more decisive turn-in to hold qualifying corner speeds against the additional fuel load. Mean rate increases to 57 deg/s.
+
+_____________________________________________________
+
+
+### Plot 9 — GG Diagram Overlay
+
+Driver 3's race GG diagram shows an envelope of 5.19g — slightly down from qualifying's 5.31g, as expected with tyre wear. Lateral G actually increases to 6.51g in the race against 5.89g in qualifying, and braking G increases to -6.01g from -5.41g. Driver 3 is loading the car harder in the race despite slower lap times — consistent with a driver pushing harder to compensate for lost corner speed rather than finding it efficiently.
+
+Driver 4 has the number that stands out — braking G drops from -3.80g in qualifying to -2.85g in the race, a 25% reduction. Normal tyre degradation doesn't do that to longitudinal grip. Either Driver 4 is deliberately managing brake pressure to protect the system over race distance, or the voltage instability from the car health data is affecting sensor readings. The envelope holds near qualifying at 2.50g. Lateral G actually increases to 5.42g — Driver 4 is generating more cornering force in the race, consistent with the more aggressive steering inputs shown in Plot 8.
+
+Driver 5's envelope is 2.46g — close to qualifying's 2.81g. Lateral G rises to 5.55g and braking G to -3.23g, both up from qualifying. Driver 5 is loading the car harder in the race in both lateral and longitudinal directions. The traction circle is being used with more intensity across the board, distributed differently around the quadrants as conditions change. The technique adapts, but the commitment level stays high.
+
+_____________________________________________________
+
+
+## Conclusion
+
+### Race
+
+Driver 5 — best lap 1:10.7, spread 11.6 seconds, standard deviation 1.96 seconds. Driver 4 — best lap 1:11.9, spread 24.0 seconds, standard deviation 2.55 seconds. Driver 3 — best lap 1:14.0, spread 23.4 seconds, standard deviation 2.24 seconds.
+
+---
+
+### Driver 5 — Why They Win the Race Too
+
+The advantage carries over from qualifying, but the reason changes. In qualifying it was corner speed. In the race it's about who can keep doing the same thing for 20 laps while the tyres wear and the car gradually stops behaving the way it did on lap one.
+
+Forget the best lap. The number that actually decides this race is standard deviation. Driver 5 at 1.96 seconds means lap after lap that looks almost identical. Driver 4 at 2.55 means more variation, more reacting, more compensating. Over 21 laps, that gap in consistency is where the result gets settled — not in any single lap time comparison.
+
+What's remarkable is how little Driver 5's technique actually changes between qualifying and the race. Full throttle drops from 2.1 to 0.5 seconds. Trail braking goes from 3.5 to 2.5 seconds. Mean throttle opening rate moves from 47 to 48 %/s — essentially unchanged. The whole approach just scales down slightly and continues working. Nothing unravels, nothing needs rethinking. The lap spread of 11.6 seconds is exactly half what Driver 4 and Driver 3 produce. No bad stints, no crisis laps, no moments where you can see in the data that something went wrong. Just the same thing, done well, repeated.
+
+All three drivers found more time as the race went on — tyres warmed up properly, fuel came off, rhythm built. Driver 4 improved the most from their early laps to their late ones. But Driver 5 was fastest at the start and fastest at the end. The improvement happened from a position of control. Not catch-up.
+
+_____________________________________________________
+
+
+### Driver 4 — Why They're Second in the Race
+
+A best lap of 1:11.9, only 1.2 seconds off Driver 5. On one lap that gap feels like nothing. Across race distance it tells a different story.
+
+Trail braking zones go from 37 in qualifying to 69 in the race. That's not a data anomaly — that's the number of times mid-corner the car felt unstable and the brakes had to stay on to manage it, rather than the corner being entered cleanly on a committed line. Forty-seven percent of the race lap spent reacting to a car that isn't quite doing what it should. The 2.55 standard deviation is the natural result.
+
+The left-hand steering rate increases 73% from qualifying to race — -562 to -975 deg/s — because Driver 4 is throwing more aggression at the wheel to compensate for a car that's heavier and less responsive than it was on a flying lap. It keeps the pace close enough to look competitive. But fighting the car for 20 laps is expensive in a way that fighting it for one qualifying lap simply isn't.
+
+_____________________________________________________
+
+
+### Driver 3 — Why They're Third in the Race
+
+Full throttle time drops from 27.1 seconds in qualifying to 6.3 seconds in the race. Twenty seconds of committed power application, gone. That is the single biggest channel change of any driver across this entire dataset.
+
+That kind of change only happens when a driver has stopped trusting the rear under acceleration. The confident flat exits from qualifying are replaced by careful, tentative throttle application, testing for grip on every corner exit. The intention is to stop the wheelspin. What actually happens is the wheelspin gets worse — from 14.8 seconds in qualifying to 18.4 in the race, more than any other driver in either session. Lifting the throttle didn't solve the problem. It just made the car slower while the problem carried on.
+
+The steering data shows exactly what happened to the car underneath Driver 3 during the race. Left-hand rate dominated in qualifying at -1,200 deg/s. In the race, right-hand dominates at 1,310 deg/s — completely reversed. The left-rear tyre degraded faster, the car lost rotation on left entries, and Driver 3 instinctively backed off on the left side and pushed harder on the right to compensate. That's the right instinct for an unbalanced car. It's just not enough to claw back 3.3 seconds a lap. Over 20 laps that's over a minute. The race was done before halfway.
+
+_____________________________________________________
+
+
+### The Overall Picture
+
+Driver 5 wins both sessions for the same fundamental reason — a technique that uses the tyre for cornering and acceleration at the same time, rather than one and then the other. It's harder to execute consistently than anything Driver 3 or Driver 4 is doing. It's also far more durable. When the tyres start going away, a binary technique loses its foundation. A technique that's already continuously adapting on every exit doesn't have a foundation to lose.
+
+Driver 4 is genuinely quick — the 1.2-second race gap is closeable. But the fix is probably in the setup, not the driving. If the car rotated more naturally under race fuel, the aggressive steering inputs and the near-doubling of trail braking corrections would likely disappear with it. The speed is real. The car just isn't letting it out cleanly enough.
+
+Driver 3's situation traces back to one thing — 18.4 seconds of wheelspin in the race. Everything else in this data, the throttle hesitancy, the tyre degradation asymmetry, the steering reversal, the engine temperatures — it all comes from that. Fix the corner exit traction and most of those symptoms clear up on their own. The differential calibration is the most obvious place to start, because the wheelspin is peaking mid-corner under partial throttle, not on the straight. That points to the diff locking too hard during the combined load phase, not a throttle application problem in the traditional sense.
+
+The car problem and the driver problem, as they've been throughout this entire analysis, are the same problem.
