@@ -18,8 +18,9 @@ ________________________________________
 
 
 Best lap distance comes out at 2,154 metres. That's a short circuit by any standard — your typical club track runs somewhere between 2 and 4 kilometres. This one is compact and tight, and that matters because there's nowhere to recover time if you make a mistake.
-Elevation change across the full lap is only 17.1 metres, rising from 298 metres to 315.1 metres above sea level. The track is essentially flat. There's no Spa-style crests, no Suzuka blind entries — the car isn't fighting gravity in any meaningful way through the lap.
-The steepest gradient recorded is a 2.23 degree downhill, and that actually deserves more attention than the numbers suggest. A car braking hard on even a 2 degree decline needs meaningfully more brake force to achieve the same deceleration as it would on flat ground. It's subtle, but when we get to the driver input analysis in Layer 3, that downhill section will be worth watching closely.
+Total elevation change across the lap is 17.1 metres, ranging from 298 m to 315.1 m above sea level. This indicates a relatively flat circuit, with no significant elevation features that would strongly influence vehicle dynamics.
+
+That said, minor elevation variations are still present, and even small downhill sections can subtly affect braking performance by increasing the effective force required to decelerate the car.
 ________________________________________
 ## Plot 3 — Corner Map
 
