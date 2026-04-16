@@ -23,15 +23,16 @@ Total elevation change across the lap is 17.1 metres, ranging from 298 m to 315.
 That said, minor elevation variations are still present, and even small downhill sections can subtly affect braking performance by increasing the effective force required to decelerate the car.
 ________________________________________
 ## Plot 3 — Corner Map
+This is the plot that really opens up the character of the circuit. The tightest corners fall in the **18–20 metre range**, which is firmly in hairpin territory. These are slow, technical sections where speed drops sharply, and the car has to be placed very precisely on entry.
+What stands out immediately is how much of the lap is spent in **low to medium radius corners**. The track doesn’t flow for long — it keeps pulling the car back into braking and rotation phases. That tells you this is a **technical circuit**, where rhythm and consistency matter more than outright speed.
+There are moments where the radius opens up and the car carries more speed, but they’re short. The straights don’t really stretch out — they just connect one corner sequence to the next. You never fully “rest” on this lap.
+The corners also come in clusters. You can see sections where multiple tight turns are grouped together, creating back-to-back technical zones. Those are the parts of the lap that will define performance — get them right, and the lap comes together. Get them wrong, and there’s very little space to recover.
+Overall, this is a **compact, corner-dominated track**. It rewards precision, not power — and the driver has to stay switched on pretty much the entire lap.
 
-This is the plot that really opens up the character of this circuit. The tightest corner on the track has a radius of just 18.3 metres. To put that into perspective — a standard road roundabout sits at roughly 15 to 20 metres radius. This is a hairpin. The car is threading through what is essentially a U-turn at 60 km/h, and that demands absolute precision on the braking point and corner entry.
-Breaking the lap down by corner type tells the full story. Tight corners under 50 metres radius account for 26.8% of the lap — nearly 20 seconds out of 71 spent in very slow, very technical sections. Medium radius corners between 50 and 150 metres take another 30.6%. Add those together and 57% of this lap is spent in genuine cornering. This track is almost entirely corners.
-Fast sweepers between 150 and 500 metres radius account for 14.5% — the flowing sections where the car can actually carry momentum. True straight-line driving above 500 metre radius makes up only 28.1% of the lap. That's 20 seconds of straight in a 71-second lap. It's not much.
-The 12 identified corner zones cluster into two distinct groups — one around the 15,300 metre mark, another between 16,100 and 16,800 metres of accumulated lap distance. On a 1,712 metre circuit, that structure means two technical sections separated by the main straight. Corner 6 at 18.3 metres is the hardest on the track, followed closely by Corner 7 at 19.4 metres and Corner 10 at 20.3 metres. Those three define the lap.
 ________________________________________
 ## Conclusion — What Track Is This?
 
-A short, flat, technical circuit of approximately 1,712 metres. Elevation change of just 17 metres across the lap — effectively flat, with one brief downhill section that will show up in the brake data. Two straights separated by two clusters of tight hairpin-style corners. More than half the lap is spent cornering.
+A short, flat, technical circuit of approximately 2,154 metres. Elevation change of just 17 metres across the lap — effectively flat, with one brief downhill section that will show up in the brake data. Two straights separated by two clusters of tight hairpin-style corners. More than half the lap is spent cornering.
 The corners at 18 to 20 metre radius are genuine hairpins — the kind where braking point discipline and minimum speed make or break the lap time. The straights are too short to recover anything lost in the slow sections. Whatever time is left on the table on this circuit is sitting in those corners, not on the straight.
 That sets Layer 3 up perfectly. We now know exactly which corners to load the driver analysis onto — and there are three in particular that are going to tell us everything.
 
